@@ -33,14 +33,6 @@
 
 <br>
 
-# Contents
-- About GITGET
-- Concept
-- Update
-- Contributors(Special Thanks)
-- Contact ME
-
-
 ### 제작자
 [@SAgiKPJH](https://github.com/SAgiKPJH)  
 [@gyfolder](https://github.com/gyfolder)
