@@ -1,4 +1,4 @@
-문서정보 : 2022.10.15.~ 작성, 작성자 [@SAgiKPJH](https://github.com/SAgiKPJH) [@gyfolder](https://github.com/gyfolder)
+문서정보 : 2022.10.15.~ 작성, 작성자 [@SAgiKPJH](https://github.com/SAgiKPJH) [@gyfolder](https://github.com/gyfolder) [@ttkpark](https://github.com/ttkpark)
 
 # Guitar_BPM_Detector
 > Guitar BPM Detector (여러 악기의 BPM을 실시간으로 알 수 있다)
