@@ -35,7 +35,7 @@
 
 ### 제작자
 [@SAgiKPJH](https://github.com/SAgiKPJH)  
-[@gyfolder](https://github.com/gyfolder)
+[@gyfolder](https://github.com/gyfolder)  
 [@ttkpark](https://github.com/ttkpark)
 
 
